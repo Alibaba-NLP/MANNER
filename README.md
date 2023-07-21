@@ -60,8 +60,6 @@ Note: I am still cleaning the code for the Chinese Cross-Domain dataset and will
 }
 ```
 
-<br>
-
 **Contact**:
 
 If you have any questions, feel free to contact me via (fangjy6@gmail.com).

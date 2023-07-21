@@ -7,8 +7,8 @@ experiment_name=ontonotes_5shot
 
 # pretraining on source domain 
 python cross_dataset/main.py \
-    --data_path=data/ \
-    --types_path=data/entity_types_domain.json \
+    --data_path=/nfs/manner/data/ \
+    --types_path=/nfs/manner/data/entity_types_domain.json \
     --N=${N} \
     --K=${K} \
     --tagging_scheme=BIOES \
